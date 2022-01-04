@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+    color: white;
+}
+
+h1{
+    text-align:center;
+    font-size:60px;
+    font-weight:bold;
+}
+
+.jumbotron{
+    background-color:skyblue;
+    margin-top: 10px;
+}
+.row {
+    text-align:left;
+    color:black;
+    font-size:25px;
+    font-family:"Arial", sans-serif;
+    font-weight:normal;
+}
+
+.section{
+    background-color:;
+    font-size:25px;
+    text-align:;
+    float:left;
+    margin-bottom:5px;
+    font-family:"Arial";
+    font-weight:normal;
+}
+
+a{
+    text-align:center;
+}
